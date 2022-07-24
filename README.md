@@ -1,4 +1,4 @@
-##Printcleaner - simple CLI to remove all print statements from your Python code
+## Printcleaner - simple CLI to remove all print statements from your Python code
 
 
 Is your Python code littered with random print statements from debugging or simply exploring?
