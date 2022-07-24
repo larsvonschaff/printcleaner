@@ -1,4 +1,0 @@
-- undo option
-- tests
-- add readme
-- add error handling
